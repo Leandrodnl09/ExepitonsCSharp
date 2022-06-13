@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\bin\Debug\net6.0\Exceptions.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\bin\Debug\net6.0\Exceptions.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
